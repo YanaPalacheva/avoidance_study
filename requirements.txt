@@ -1,4 +1,5 @@
 pandas=1.0.3
+xlrd >= 1.0.0
 numpy=1.18.1
 convokit= 2.3.2.5
 spacy=2.3.2
