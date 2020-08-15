@@ -1,6 +1,6 @@
 ## Question Avoidance Study
 
-This is a final project for "Question Processing" course at Uni Potsdam. The contributors are three Master's students: \\
+This is a final project for "Question Processing" course at Uni Potsdam. The contributors are three Master's students:
 Iana Palacheva (YanaPalacheva), Polina Gusenkova (PolinaGusenkova) and Karina Hensel (karina-hensel).
 
 This project is dedicated to the phenomenon of question avoidance. 
